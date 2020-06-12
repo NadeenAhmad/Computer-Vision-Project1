@@ -1,0 +1,2 @@
+What is the advantage of using the integral image for average filtering compared to traditional convolution implementation of average filtering?
+Less number of operations needed to apply the filter in compare to el tradidtional convolution method.
